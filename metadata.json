@@ -1,0 +1,6 @@
+{
+  "name": "STRANGER - Personal Android AI Agent Studio",
+  "description": "Private personal AI assistant for Android with Jetpack Compose shell, Hindi/English NLU, tool-calling architecture, and Redmi 13C 5G cloud development suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

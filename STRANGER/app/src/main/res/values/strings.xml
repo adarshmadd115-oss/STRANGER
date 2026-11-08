@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">STRANGER</string>
+    <string name="assistant_title">STRANGER</string>
+    <string name="assistant_subtitle">PERSONAL AI AGENT</string>
+    <string name="voice_prompt_en">Speak to STRANGER</string>
+    <string name="voice_prompt_hi">STRANGER से बोलें</string>
+    <string name="status_ready">Ready · Allow-list enforced</string>
+</resources>
